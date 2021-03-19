@@ -1,5 +1,6 @@
 #Biblioteca de interface
 from tkinter import *
+from tkinter import font
 from tkinter.ttk import * # Frame, Label, Entry, Button
 from tkinter import scrolledtext
 from tkinter import filedialog
